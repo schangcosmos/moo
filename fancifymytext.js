@@ -46,7 +46,7 @@ function mooTime() {
         var words = sentences[i].split(" ");
         if (words.length > 0) {
             words[words.length - 1] = words[words.length - 1].trim() + "-Moo";
-            sentences[i] = words.join("");
+            sentences[i] = words.join(" ");
         }
     }
 
