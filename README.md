@@ -1,3 +1,3 @@
 # moo
 
-repo for CSC 193A Assignemnt #5
+repo for CSC 193A Assignment #5
